@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define DECK_SIZE 104
+#define DECK_SIZE 52
 
 typedef struct
 {
